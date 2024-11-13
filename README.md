@@ -9,9 +9,7 @@ This Power BI dashboard provides a comprehensive analysis of financial data, foc
 * **Time Series Analysis:** Visualizes trends in total costs, rebates, and payslips over time.
 * **Geographical Analysis:** Maps costs, rebates, and payslips by country or region.
 * **Cost Breakdown:** Analyzes the distribution of costs (processing, recurring, one-time, etc.) for each country or region.
-* **Invoice Analysis:** Examines the distribution of invoice amounts and identifies outliers.
 * **Payslip Analysis:** Tracks the number of payslips generated over time and by country.
-* **Vendor Analysis:** Analyzes costs and performance metrics by vendor.
 
 **How to Use**
 
